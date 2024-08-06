@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66b267fba409ab5ad1e6bae2_46585307-63fa-47e2-87da-88017f30339c",
-  "id": "Page1_JSModule21",
+  "id": "Page1_JSModule21aa",
   "moduleUUID": "923f3a78-1644-468a-9aa3-bf70708fb869",
   "packageUUID": "6dad4585-7894-4100-9b0d-3794b1285eab",
   "type": "JS_MODULE",
@@ -11,7 +11,7 @@
       "bzorsomdfs": {},
       "dhpakvhiue": {}
     },
-    "name": "JSModule21",
+    "name": "JSModule21aa",
     "pageId": "Page1",
     "version": "0.0.6"
   }
