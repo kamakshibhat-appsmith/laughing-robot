@@ -1,0 +1,19 @@
+{
+  "gitSyncId": "66b267fba409ab5ad1e6bae2_63e5ad01-b10f-4a51-9a88-eea5b24e66df",
+  "id": "Page1_QueryModule11",
+  "moduleUUID": "8e321737-fca0-4de4-af4c-e21e9418fd72",
+  "packageUUID": "6dad4585-7894-4100-9b0d-3794b1285eab",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "1"
+    },
+    "moduleInputs": {
+      "skranqefyl": {}
+    },
+    "name": "QueryModule11",
+    "pageId": "Page1",
+    "version": "0.0.1"
+  }
+}
