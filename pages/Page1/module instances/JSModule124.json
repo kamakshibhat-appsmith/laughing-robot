@@ -1,0 +1,21 @@
+{
+  "gitSyncId": "66b26890a409ab5ad1e6bb35_e3d51c76-1eab-42e2-82ff-ad981cc10eb5",
+  "id": "Page1_JSModule124",
+  "moduleUUID": "2a96bf68-cbf3-451e-869e-103f78d769f9",
+  "packageUUID": "6dad4585-7894-4100-9b0d-3794b1285eab",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "myFun1": "[\"{{1}}\"]",
+      "myFun2": "[]"
+    },
+    "moduleInputs": {
+      "sjamfjupyd": {},
+      "umlxaagdxc": {}
+    },
+    "name": "JSModule124",
+    "pageId": "Page1",
+    "version": "0.0.4"
+  }
+}
